@@ -1,8 +1,8 @@
 ---
-title: "CMake系列（一）如何使用CMake 构建Hello world"
-date: "2017-08-19"
-categories: ["软件开发"]
-tags: ["CMake"]
+title: "Graph Algorithm: Hamilton Path Solution: Part I"
+date: "2020-05-26"
+categories: ["Algorithm"]
+tags: ["Graph Theory"]
 ---
 
 
