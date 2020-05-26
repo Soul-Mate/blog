@@ -1,5 +1,5 @@
 ---
-title: "Graph Algorithm: Hamilton Path Solution: Part I"
+title: "Graph Algorithm-Hamilton Path Solution: Part I"
 date: "2020-05-26"
 categories: ["Algorithm"]
 tags: ["Graph Theory"]
@@ -195,7 +195,6 @@ bool HamiltonLoop::dfs(int s, int v) {
     std::vector<int> adj = g_->adjacency(v);
     for (int w :  adj) {
         if (!visited_[w]) {
-            visited_[w] = true;
             if (dfs(s, w)) {
                 return true;
             }
