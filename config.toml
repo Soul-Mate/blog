@@ -4,7 +4,7 @@ languageCode = "zh-Hans"
 
 defaultContentLanguage = "zh"
 
-title = "Ember"
+title = "Anti Entropy"
 
 theme = "dream"
 
@@ -29,7 +29,7 @@ hasCJKLanguage = true
   # backgroundImage = "/images/me/nick_background.jpg"
   linkColor = "seagreen"
 
-  author = "Ember"
+  author = "Anti Entropy"
   description = ""
   avatar = "/images/me/IMG_0847.JPG"
   motto = ""
